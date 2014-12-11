@@ -43,8 +43,6 @@
 
 * Ruby's Object Model
 * Encapsulation & Separation of Responsibilities
-* Regular Expressions
-* Big-O Analysis
 
 ### Projects
 
@@ -73,3 +71,5 @@
 * Testing a REPL
 * RTanque Battle Dojo
 * Electives
+* Big-O Analysis
+* Regular Expressions
