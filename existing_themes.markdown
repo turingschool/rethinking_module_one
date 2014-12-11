@@ -12,6 +12,7 @@
 * Scavenger Hunt
 * Cross-Team Pairing
 * Cross-Group Pairing
+* Cross-Cohort Pairing
 
 ### Fundamental Syntax & Tools
 
@@ -24,24 +25,15 @@
 
 * Intro to TDD
 * Mythical Creatures
-* Mythical Creatures Review
-* IdeaBox with TDD
-* Phone Book with CSV
 * Measuring and Improving Test Coverage
 * Minitest Tips & Techniques
 * Integration Testing
-* Testing with Dependency Injection
-* Improving Testing Speed
 
 ### Object-Oriented Programming
 
 * Objects & Methods
 * Command & Query
-
-### Enumerables
-
 * Enumerable Methods
-* Revisiting Enumerables
 
 ### Problem Solving
 
@@ -53,8 +45,6 @@
 * Encapsulation & Separation of Responsibilities
 * Regular Expressions
 * Big-O Analysis
-* Garbage Collection & Object Lifecycle
-* The Performance of Code
 
 ### Projects
 
@@ -66,21 +56,20 @@
 ### Classroom Procedures & Tracking
 
 * Mythical Creatures Diagnostic
-* Cross-Cohort Pairing
 * Assessments
 
-## Secondary Themes
+## Sessions to Consider Cutting/Cutting-Down/Rethinking
 
-### REPLs
-
+* IdeaBox with TDD
+* Phone Book with CSV
+* Mythical Creatures Review
+* Testing with Dependency Injection
+* Improving Testing Speed
+* Revisiting Enumerables
+* Garbage Collection & Object Lifecycle
+* The Performance of Code
+* Refactoring Patterns, Part 1
 * REPL Essentials
 * Testing a REPL
-
-### Refactoring
-
-* Refactoring Patterns, Part 1
-
-### Explorations
-
 * RTanque Battle Dojo
 * Electives
