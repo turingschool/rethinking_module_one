@@ -1,4 +1,4 @@
-## Existing Themes
+## Critical Themes
 
 ### Environment Setup
 
@@ -20,7 +20,6 @@
 * Intro to CSVs
 * Debugging Techniques & Exercises
 
-
 ### Fundamental TDD
 
 * Intro to TDD
@@ -38,13 +37,6 @@
 
 * Objects & Methods
 * Command & Query
-
-### Classroom Procedures & Tracking
-
-* Mythical Creatures Diagnostic
-* Cross-Cohort Pairing
-* Assessments
-
 
 ### Enumerables
 
@@ -64,18 +56,25 @@
 * Garbage Collection & Object Lifecycle
 * The Performance of Code
 
-
-### REPLs
-
-* REPL Essentials
-* Testing a REPL
-
 ### Projects
 
 * Mastermind Kickoff, Work Time, Evaluations
 * EventReporter Kickoff, Work Time, Evaluations
 * SalesEngine Kickoff, Planning, Work Time, Evaluations
 * Connecting Two Verticals
+
+### Classroom Procedures & Tracking
+
+* Mythical Creatures Diagnostic
+* Cross-Cohort Pairing
+* Assessments
+
+## Secondary Themes
+
+### REPLs
+
+* REPL Essentials
+* Testing a REPL
 
 ### Refactoring
 
