@@ -11,3 +11,6 @@ Students struggle to...
 * manage their project development / iteration
 * understand how data is passed and transformed across operations
 * create mental models of arrays, hashes, etc
+* vocabulary => programming mapping
+* solving problems away from code
+* how to write pseudocode
